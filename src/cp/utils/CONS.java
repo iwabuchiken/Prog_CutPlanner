@@ -15,4 +15,13 @@ public class CONS {
 		
 	}
 	
+		
+		
+
+	public static class Paths {
+		
+		public static String fpath_Image	= "images";
+		
+	}
+		
 }
